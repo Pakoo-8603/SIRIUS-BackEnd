@@ -4,6 +4,7 @@ const cors = require("cors");
 const config = require("./config");
 
 // Import routes
+const auth = require("./models/auth/routes");
 
 // Import error handling middleware
 const error = require("./network/errors");
@@ -18,7 +19,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Use routes
-
+app.use("/api/auth", auth);
 
 // Use error handling middleware
 app.use(error);

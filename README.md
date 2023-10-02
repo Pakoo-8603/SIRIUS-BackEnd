@@ -48,8 +48,8 @@ Distributed under the IDK License. See `LICENSE` for more information.
 
 ## 📧 Contact 📧
 
-- [Francisco Javier Ledesma Ponce](franciscojavierledesmaponce@gmail.com)
-- [Eduardo Daniel Rodríguez Anda](snightk0@gmail.com)
+- [Francisco Javier Ledesma Ponce](https://github.com/Pakoo-8603)
+- [Eduardo Daniel Rodríguez Anda](https://github.com/SNightK)
 
 []: # Path: ReadMe.md
 
@@ -104,5 +104,5 @@ Distribuido bajo la licencia IDK. Ver `LICENSE` para más información.
 
 ## 📧 Contacto 📧
 
-- [Francisco Javier Ledesma Ponce](franciscojavierledesmaponce@gmail.com)
-- [Eduardo Daniel Rodríguez Anda](snightk0@gmail.com)
+- [Francisco Javier Ledesma Ponce](https://github.com/Pakoo-8603)
+- [Eduardo Daniel Rodríguez Anda](https://github.com/SNightK)
