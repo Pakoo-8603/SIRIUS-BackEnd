@@ -5,6 +5,7 @@ const config = require("./config");
 
 // Import routes
 const auth = require("./models/auth/routes");
+const cuentas = require("./models/cuentas/routes");
 
 // Import error handling middleware
 const error = require("./network/errors");
@@ -20,6 +21,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // Use routes
 app.use("/api/auth", auth);
+app.use("/api/cuentas", cuentas);
 
 // Use error handling middleware
 app.use(error);
